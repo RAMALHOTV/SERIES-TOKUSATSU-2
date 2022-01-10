@@ -1,5 +1,4 @@
-##########################################################################################################################
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR]SERIES TOKUSATSU ULTRAMAN[COLOR white][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
